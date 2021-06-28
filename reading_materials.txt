@@ -1,0 +1,8 @@
+1. What is API
+https://apimetrics.io/api-knowledge-base/apis-for-dummies/
+
+2. Using Javascript's fetch() function to communicate with API
+https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch
+
+3. Sync and async in Javascript
+https://rowanmanning.com/posts/javascript-for-beginners-async/

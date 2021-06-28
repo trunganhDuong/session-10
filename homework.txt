@@ -1,0 +1,13 @@
+1. Using this API https://jsonplaceholder.typicode.com/posts
+Create A Page to show list of all posts in this API
+
+2. The above will perform and GET request, meaning "Getting" data/resources to our program.
+Read more about Request Method here: https://www.w3schools.com/tags/ref_httpmethods.asp
+
+Now it's time to CREATE some data. 
+Create a page to create new post and upload to API https://jsonplaceholder.typicode.com/posts
+
+- Read how to POST data with fetch() here: https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API/Using_Fetch#uploading_json_data
+- How to CREATE data using given API: https://jsonplaceholder.typicode.com/guide/
+
+GOOD LUCK!!!
