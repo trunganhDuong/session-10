@@ -4,6 +4,7 @@ let txtBody = document.getElementById("body");
 let slUser = document.getElementById("user");
 
 const handleData = data => {
+    console.log("Hello World");
     console.log(data);
 }
 
